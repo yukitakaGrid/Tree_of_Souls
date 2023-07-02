@@ -1,5 +1,5 @@
 # Tree_of_Souls
-PDC2023展示。Boidsとフラクタルによる永遠を意識した創発のジェネラティブアート。
+PCD2023展示。Boidsとフラクタルによる永遠を意識した創発のジェネラティブアート。
 
 
 https://github.com/yukitakaGrid/Tree_of_Souls/assets/105165980/897c8b3b-cf57-4462-915f-39d25a82d5c7
